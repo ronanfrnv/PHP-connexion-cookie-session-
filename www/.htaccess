@@ -1,5 +1,0 @@
-AuthName "Page d'administration protegee"
-AuthBasicProvider file
-AuthType Basic
-Require valid-user
-AuthUserFile /var/www/fourneur/tp2-3-authentification-cookie-session/www/.htpasswd
