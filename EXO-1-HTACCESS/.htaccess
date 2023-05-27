@@ -1,0 +1,5 @@
+AuthName "Page d'administration protegee"
+AuthBasicProvider file
+AuthType Basic
+Require valid-user
+AuthUserFile /var/www/fourneur/tp2-3-authentification-cookie-session/EXO-1-HTACCESS/.htpasswd
